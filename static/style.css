@@ -1,5 +1,5 @@
 body {
-    background-image: url("/static/Media/fondo1.png");
+    background-image: url("/static/Media/fondo.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -7,27 +7,28 @@ body {
   @media (max-width: 767px) {
     
     h1 {
-      font-size: 2em;
+      font-size: larger;
     }
     h2 {
-      font-size: 2em;
+      font-size: medium;
     }
     h3 {
-      font-size: 2em;
+      font-size: small;
     }
     h4 {
       font-size: 2em;
     }
     h5 {
-      font-size: 2em;
+      font-size: large;
     }
     h6 {
-      font-size: 2em;
+      font-size: medium;
     }
     video {
       width: 100%;
       height: auto;
     }
   }
+    
   
   
