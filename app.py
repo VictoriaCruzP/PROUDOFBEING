@@ -8,7 +8,7 @@ def index():
 
 @app.route('/contacto')
 def contacto():
-    return redirect("https://wa.me/+34611150440", code=302)
+    return redirect("https://wa.me/+34611676727", code=302)
 
 if __name__ == '__main__':
     app.run(debug=True)
